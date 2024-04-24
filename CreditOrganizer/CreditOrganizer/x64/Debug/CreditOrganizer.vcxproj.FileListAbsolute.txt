@@ -1,0 +1,1 @@
+D:\_Facultate\POO\CreditOrganizer\CreditOrganizer\x64\Debug\CreditOrganizer.vcxproj.AssemblyReference.cache
